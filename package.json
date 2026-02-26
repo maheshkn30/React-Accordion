@@ -2,7 +2,7 @@
   "name": "accordion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maheshkn30.github.io/React-Accordion",
+  "homepage": "https://maheshkn30.github.io/React-Accordion/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
