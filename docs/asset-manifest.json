@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/maheshkn30/React-Accordion/static/css/main.ee15304a.css",
+    "main.js": "/maheshkn30/React-Accordion/static/js/main.840d1e72.js",
+    "index.html": "/maheshkn30/React-Accordion/index.html",
+    "main.ee15304a.css.map": "/maheshkn30/React-Accordion/static/css/main.ee15304a.css.map",
+    "main.840d1e72.js.map": "/maheshkn30/React-Accordion/static/js/main.840d1e72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee15304a.css",
+    "static/js/main.840d1e72.js"
+  ]
+}
